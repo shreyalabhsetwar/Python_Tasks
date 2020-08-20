@@ -1,9 +1,4 @@
 import pyttsx3 as pys
-engine = pys.init()
-rate = engine.getProperty('rate')   # getting details of current speaking rate
-
-engine.setProperty('rate', 125)  
-
 import os
 print("\n\t \t :-:-:-:-:-:-:-:-:-:-:-:Welcome To Shreya's Menu:-:-:-:-:-:-:-:-:-:-:-:")
 
